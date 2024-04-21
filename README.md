@@ -1,0 +1,1 @@
+# Automated-Personality-Assessment-from-Text-Predicting-Big-Five-Personality-Traits-from-Essays
